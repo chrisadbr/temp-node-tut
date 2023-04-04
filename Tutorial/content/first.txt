@@ -1,0 +1,5 @@
+WordPress user Roles and Capabilities give you the ability to 
+control what other users can or cannot do on your site. You can
+ use them to manage user actions such as writing and editing posts, 
+ creating new pages, moderating comments, installing plugins, adding 
+ new users, and much more.

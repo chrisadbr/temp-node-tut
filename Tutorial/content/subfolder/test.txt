@@ -1,0 +1,5 @@
+Tab Completion The editor supports "tab completion" which 
+inserts the best matching completion when pressing Tab. This 
+works regardless of the suggest widget showing or not. Also, 
+pressing Tab after inserting a suggestions will insert the next 
+best suggestion. By default, tab completion is disabled.

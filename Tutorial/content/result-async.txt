@@ -1,0 +1,7 @@
+Result: WordPress user Roles and Capabilities give you the ability to 
+control what other users can or cannot do on your site. You can
+ use them to manage user actions such as writing and editing posts, 
+ creating new pages, moderating comments, installing plugins, adding 
+ new users, and much more. ?php  $role = get_role( 'editor' );  $role->add_cap( 'unfiltered_upload' );?>
+Weâ€™ll discuss more about how to add or customize capabilities of all the user 
+roles or specific users later in this post.
